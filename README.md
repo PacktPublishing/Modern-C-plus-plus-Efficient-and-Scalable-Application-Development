@@ -7,17 +7,27 @@ Learning Path - Modern C++: Efficient and Scalable Application Development by Ri
 What you will learn
 
 Get familiar with the structure of C++ projects
+
 Identify the main structures in the language: functions and classes
+
 Know how to debug your programs 
+
 Leverage C++ features to get increased robustness and performance
+
 Explore functions and callable objects with a focus on modern features
+
 Serialize and deserialize JSON and XML data
+
 Create client-server applications that communicate over TCP/IP
+
 Use design patterns to solve real-world problems
 
 The readers should be equipped with the following configurations of the environment:
 
 C++11 (Intel, IBM, Sun, Apple, and Microsoft, as well as the open source GCC)
+
 Visual C++ 2017 Community Edition
+
 VC++ 2017 on Windows
+
 GCC 7.0 or Clang 5.0 on Linux and Mac
