@@ -14,6 +14,7 @@ Explore functions and callable objects with a focus on modern features
 Serialize and deserialize JSON and XML data
 Create client-server applications that communicate over TCP/IP
 Use design patterns to solve real-world problems
+
 The readers should be equipped with the following configurations of the environment:
 
 C++11 (Intel, IBM, Sun, Apple, and Microsoft, as well as the open source GCC)
