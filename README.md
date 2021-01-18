@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this product for only $5 on PacktPub.com](https://www.packtpub.com/)
------
-*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # Modern C++: Efficient and Scalable Application Development
 
 C++ is one of the most widely used programming languages. It is fast, flexible, and used to solve many programming problems.
